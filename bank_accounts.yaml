@@ -1,0 +1,19 @@
+---
+Customer:
+ - Name: Devendra
+   Account_Number: 1234567890
+   Account_Type: Saving
+   Balance: 50000
+   IsActive: Active
+
+ - Name: Aarti
+   Account_Number: 0987654321
+   Account_Type: Current
+   Balance: 125000
+   IsActive: Inactive
+
+ - Name: Vishal
+   Account_Number: 6548930210
+   Account_Type: Saving
+   Balance: 10000
+   IsActive: Active

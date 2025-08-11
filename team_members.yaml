@@ -1,0 +1,24 @@
+---
+Team_members:
+ - Name: Devendra
+   Role: full_stack
+   Tech_stack:
+    - React
+    - Django
+    - Docker
+   Availability: True
+
+ - Name: Shruti
+   Role: QA_Engineer
+   Tech_stack:
+    - Selenium
+    - Postman
+   Availability: False
+
+ - Name: Aryan
+   Role: DevOps
+   Tech_stack:
+    - Terraform
+    - Ansible
+   Availablity: True
+

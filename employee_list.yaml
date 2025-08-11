@@ -1,0 +1,29 @@
+---
+employees:
+  - name: Ramesh
+    age: 32
+    department: IT
+    skills:
+      - Python
+      - Docker
+    address:
+      city: Mumbai
+      pincode: 400001
+  - name: Priya
+    age: 28
+    department: HR
+    skills:
+      - Communication
+      - Excel
+    address:
+      city: Pune
+      pincode: 41001
+  - name: Manish
+    age: 35
+    department: sales
+    skills:
+       - CRM
+       - Negotiation
+    address:
+      city: Delhi
+      pincode: 110001

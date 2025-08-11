@@ -1,0 +1,21 @@
+---
+Courses:
+ - name: Pthon Bootcamp
+   instructor: John
+   price: 999
+   tags:
+     - Python
+     - Beginner
+   enrolled_student:
+     - Amit
+     - Neha
+ - name: Devops Zero to Hero
+   instructor: Devendra
+   price: 1499
+   tags:
+     - Docker
+     - K8s
+     - AWS
+   enrolled_student:
+     - Ravi
+     - Sneha

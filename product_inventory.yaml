@@ -1,0 +1,19 @@
+---
+Products:
+ - SKU: SKU001
+   Name: Laptop
+   Category: Electronics
+   Price: 55000
+   Instock: Yes
+
+ - SKU: SKU002
+   Name: Pendrive
+   Category: Accessories
+   Price: 500
+   Instock: No
+
+ - SKU: SKU003
+   Name: Chair
+   Category: Furniture
+   Price:  1800
+   Instock: Yes

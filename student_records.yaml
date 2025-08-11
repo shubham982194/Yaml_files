@@ -1,0 +1,24 @@
+---
+Student_records:
+ - Name: Ravi
+   Roll_no.: 101
+   Class: 10A
+   Subjects:
+   - Math
+   - Science
+   - English
+   Marks:
+   - Math: 85
+   - Science: 90
+   - English: 88
+
+ - Name: Komal
+   Roll_no.: 102
+   Class: 10B
+   Subjects:
+   - Math
+   - Hindi
+   Marks:
+   - Math: 78
+   - Hindi: 92
+

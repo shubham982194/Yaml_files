@@ -1,0 +1,16 @@
+---
+Weather_info:
+ - City_name: Delhi
+   Temperature: 35C
+   Humidity: 60%
+   Is_raining: No
+
+ - City_name: Mumbai
+   Temperature: 30C
+   Humidity: 80%
+   Is_raining: Yes
+
+ - City_name: Jaipur
+   Temperature: 38C
+   Humidity: 40%
+   Is_raining: No

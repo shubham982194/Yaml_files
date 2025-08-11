@@ -1,0 +1,21 @@
+---
+Book_Data:
+ - Title: Clean_code
+   Author: Robert_Martin
+   ISBN: 0987654321
+   Genres: Programming
+   Availability: Available
+
+ - Title: Atomic_Habits
+   Author: James_Clear
+   ISBN: 657483921793
+   Genres: Self-help
+   Availability: Not_Available
+
+ - Title: Deep_work
+   Author: Cal_Newport
+   ISBN: 9781455586691
+   Genres:
+   - Productivity
+   - Focus
+   Availability: Available

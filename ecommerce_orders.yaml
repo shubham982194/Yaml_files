@@ -1,0 +1,16 @@
+---
+Orders:
+ - Order_ID: 1001
+   Buyer_name: Aditi
+   Products:
+   - shoes: 2
+   - watch: 1
+   Total_price: 4500
+   Payment_status: Paid
+
+ - Order_ID: 1002
+   Buyer_name: Suresh
+   Products:
+   -  T-shirts: 3
+   Total_price: 1200
+   Payment_status: Pending
